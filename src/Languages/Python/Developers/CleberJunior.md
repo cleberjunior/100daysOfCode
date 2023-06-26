@@ -2,8 +2,8 @@
 
 -  Nome : Cleber Junior 
 -  Idade : 42
--  Curso : ADS/Gran Faculdade
--  Linguagem : Java
+-  Curso : ADS/Gran Centro Universitário
+-  Linguagem : Python
 
 
 -  Descrição: 
